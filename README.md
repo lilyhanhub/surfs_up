@@ -17,3 +17,7 @@ After conducting the analysis, we gather the following statistics of the months 
 
 ## Summary
 Based on the above statistics report, we can conclude that the temperature trends in Oahu remain steady at a confortble range (56-85) throughout the year, so running a surf shop at Oahu seems like a profitable business. 
+
+However, to provide more insights about Oahu weather for the business planning, we could run a query on precipitation data, since precipitation is another important factor that can influence the conditions for surfing. Having a statistical summary of the precipitation in the months of June and December will help provide a better understanding of Oahu weather.
+
+Another query we could run for a further analysis is to compare the active stations with the min, max, and mean pricipitation statistical factors. It could help determine the best location for the surf shop. 
