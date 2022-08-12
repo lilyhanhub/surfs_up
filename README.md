@@ -1,7 +1,7 @@
 # surfs_up
 SQLite｜SQLAlchemy｜Flask | Python
 ## Overview of the statistical analysis
-The purpose of the analysis is to create a statistical analysis of the weather dataset in Oahu. The results will help determine if a surf and icecream shop business is sustaniable year-round. The analysis consists of three parts:
+The purpose of the analysis is to conduct a statistical analysis of the weather dataset in Oahu. The results will help determine if a surf and icecream shop business is sustaniable year round. The analysis consists of three parts:
 
 * Generate the summary statistics for June
 * Generate the summary statistics for December
@@ -20,4 +20,4 @@ Based on the above statistics report, we can conclude that the temperature trend
 
 However, to provide more insights about Oahu weather for the business planning, we could run a query on precipitation data, since precipitation is another important factor that can influence the conditions for surfing. Having a statistical summary of the precipitation in the months of June and December will help provide a better understanding of Oahu weather.
 
-Another query we could run for a further analysis is to compare the active stations with the min, max, and mean pricipitation statistical factors. It could help determine the best location for the surf shop. 
+Another query we could run for a further analysis is to compare the active stations with the min, max, and mean pricipitation statistical factors. It would help determine the best location for the surf shop. 
